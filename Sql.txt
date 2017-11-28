@@ -1,0 +1,2 @@
+﻿aby dostać się do danych:
+' or '1'='1' or receiver_name like '
